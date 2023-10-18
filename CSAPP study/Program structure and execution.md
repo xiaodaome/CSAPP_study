@@ -1,2 +1,10 @@
 # Program structure and execution
-abcde 
+
+## P84 Problem 2.5
+A. Little endian : 0x78 Big endian : 0x12
+
+A. Little endian : 0x78 0x56 Big endian : 0x12 0x34
+
+A. Little endian : 0x78 0x56 0x34 Big endian : 0x12 0x34 0x56
+
+## P85 Problem 2.6
